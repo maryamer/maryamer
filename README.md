@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="100%" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<img align="right" alt="coding" width="100%" src="https://www.freepik.com/free-vector/matrix-style-binary-code-digital-falling-numbers-blue-background_24600855.htm#query=developer%20background&position=1&from_view=keyword&track=ais&uuid=ff27da52-89f8-4c66-9789-7e27d3e1c4ad">
 <h1 align="center">Hi 👋, I'm Maryam Ebrahimi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">

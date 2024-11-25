@@ -53,10 +53,6 @@
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
     </a> 
-    <!-- Add React Hook Form -->
-    <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://react-hook-form.com/static/logo.svg" alt="react-hook-form" width="40" height="40"/> 
-    </a>
     <!-- Add ADF -->
     <a href="https://www.adobe.com/products/analytics.html" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Adobe_Analytics_logo.svg/1280px-Adobe_Analytics_logo.svg.png" alt="adobe-analytics" width="40" height="40"/> 

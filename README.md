@@ -54,15 +54,15 @@
     </a> 
     <!-- Add React Hook Form -->
     <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://react-hook-form.com/static/logo.svg" alt="react-hook-form" width="40" height="40"/> 
+        <img  alt="react-hook-form" width="40" height="40"/> 
     </a>
     <!-- Add ADF -->
     <a href="https://www.adobe.com/products/analytics.html" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Adobe_Analytics_logo.svg/1280px-Adobe_Analytics_logo.svg.png" alt="adobe-analytics" width="40" height="40"/> 
+        <img  alt="adobe-analytics" width="40" height="40"/> 
     </a>
     <!-- Add AG-Grid -->
     <a href="https://www.ag-grid.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ag-Grid_Logo.svg/1200px-Ag-Grid_Logo.svg.png" alt="ag-grid" width="40" height="40"/> 
+        <img alt="ag-grid" width="40" height="40"/> 
     </a>
 </p>
 
